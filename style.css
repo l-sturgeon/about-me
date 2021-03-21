@@ -1,0 +1,76 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #E8EEF1;
+  color: #3E4752;
+  line-height: 24px;
+}
+
+h1 {
+  font-weight: 600;
+  color: #189AB4;
+}
+
+h2 {
+  color: #189AB4;
+}
+
+.white-card {
+  max-width: 55%;
+  margin: 16px auto;
+  background-color: rgba(245, 245, 245, 0.7);
+  padding: 24px;
+  border-radius: 4px;
+  box-shadow: 3px 0px 9px rgba(245, 245, 245, 0.4);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-circle {
+  height: 212px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icon {
+  color: #3E4752;
+  font-size: 24px;
+  padding: 4px 16px;
+
+}
+
+.social-icon:hover {
+  color: #189AB4;
+}
+
+.btn-blue a {
+  color: #E8EEF1;
+}
+
+.btn-blue li {
+  background-color: #189AB4;
+  padding: 8px 24px;
+  border-radius: 4px;
+  width: 40%;
+  margin: 8px;
+
+}
+
+.btn-blue li:hover {
+  background-color: #05445E;
+}
+
